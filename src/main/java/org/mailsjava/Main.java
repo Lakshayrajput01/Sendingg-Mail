@@ -5,7 +5,7 @@ public class Main {
 
         //prepare to send mail
 
-        System.out.println("This application is supposed to send mails");
+        System.out.println("This application is used to send mails");
 
         HandleMail mailer = new HandleMail();
         mailer.sendMail();
